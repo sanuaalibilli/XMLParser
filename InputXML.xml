@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<accounts>
+	<account>
+		<acctBasicInfo>
+		<acctName>6007317992</acctName>
+		<acctNumLoanOrigination>6007317992</acctNumLoanOrigination>
+		<branchId>304</branchId>
+		<acctStatus>Mortgage Application</acctStatus>
+		<acctType>MLA</acctType>
+		<acctPurpose code="H">Standalone HELOC</acctPurpose>
+		<entityID name="Morgan Stanley Private Bank, National Associates">MSPBNA</entityID>
+		<isoCurrCode>USD</isoCurrCode>
+		<regRepType>Loan Processor</regRepType>
+		<relParties>
+			<relParty>
+				<relPartyName relPartyRelshpType="Flood Certificate Provider">FDSI</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="Loan Officer">Luke jeffery</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="Processor">Natalie Byrnes</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="ClosingAgent">Melba Pogo</relPartyName>
+				<address></address>				
+			</relParty>
+		</relParties>
+		<acctOpenMethod code="I">Telephone</acctOpenMethod>
+		<address addressType="property">
+			<addrLine1>1600 PHELPS RD</addrLine1>
+			<addrLine2>36 THE VAL</addrLine2>
+			<cityName>MANLIUS</cityName>
+			<countyName>MADISON</countyName>
+			<stateProvinceCode>NY</stateProvinceCode>
+			<stateProvinceName>NY</stateProvinceName>
+			<postalCode>13104</postalCode>		
+		</address>
+		<leadCreateDate>2016-03-30</leadCreateDate>
+		<branchContacts>
+			<branchContact>
+				<branchContactName type="FA" id="304196">Mayon D Buckow</branchContactName>
+			</branchContact>
+		</branchContacts>
+		<acctUniqueId>1602792</acctUniqueId>
+		<regOIndicator>N</regOIndicator>
+		<employeeLoanIndicator>N</employeeLoanIndicator>
+		</acctBasicInfo>
+		<accountFinInfo>
+			<netAssetValue>300000.0000000</netAssetValue>
+			<lienPayOffs>
+			</lienPayOffs>
+		</accountFinInfo>		
+		<clients>
+			<client>
+				<clientBasicInfo>
+					<inquiryType>P</inquiryType>
+					<onboardbusEntity>PDG Mortgage</onboardbusEntity>
+					<clientType>PERSON</clientType>
+					<govtIssIds>
+						<govtIssId>
+							<govtIssIdType>SSN</govtIssIdType>
+							<govtIssIdNumber>123456789</govtIssIdNumber>
+						</govtIssId>
+					</govtIssIds>
+					<onboardDate>2016-03-30</onboardDate>
+					<clientId>0039560727</clientId>
+					<foreignNationalIndicator>N</foreignNationalIndicator>
+				</clientBasicInfo>
+				<clientFinInfo>
+					<annualIncome>35292.000000</annualIncome>
+				</clientFinInfo>
+				<clientPersInfo>
+					<fullName lastName="Putik" firstName="Deboi" middleName="L">Deboi L Putik</fullName>
+					<birthDate>1940-04-15</birthDate>
+					<citizenship>Y</citizenship>
+					<maritalStatus code="M">Married</maritalStatus>
+					<methodIntro code="FA">FA Refferal</methodIntro>
+					<enrolledProduct program="M74">MELOC 25 Year Term</enrolledProduct>
+					<sourcesOfWealth></sourcesOfWealth>
+					<sourceOfWealthJurisdiction></sourceOfWealthJurisdiction>
+					<sourceofWealthIndustries></sourceofWealthIndustries>
+					<sourcesofFund></sourcesofFund>
+					<sourceOfFundJurisdiction></sourceOfFundJurisdiction>
+					<sourceofFundIndustries></sourceofFundIndustries>
+					<role>borrower</role>
+					<borrowerSequenceNumber>1</borrowerSequenceNumber>
+					<primaryBorrowerIndicator>Y</primaryBorrowerIndicator>
+					<p2ps></p2ps>
+				</clientPersInfo>
+				<clientContactInfo>
+					<email>sam@gmauil.com</email>
+					<phones>
+						<phoneNumber phoneType="Home">123456789</phoneNumber>
+					</phones>
+					<addresses>
+						<address addressType="Home">
+							<addressLine1>315 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+						<address addressType="Office">
+							<addressLine1>316 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+						<address addressType="Others">
+							<addressLine1>317 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+					</addresses>
+					</clientContactInfo>
+			</client>
+		</clients>
+		<transactions>
+		</transactions>		
+	</account>	
+	<account>
+		<acctBasicInfo>
+		<acctName>6007317992</acctName>
+		<acctNumLoanOrigination>6007317992</acctNumLoanOrigination>
+		<branchId>304</branchId>
+		<acctStatus>Mortgage Application</acctStatus>
+		<acctType>MLA</acctType>
+		<acctPurpose code="H">Standalone HELOC</acctPurpose>
+		<entityID name="Morgan Stanley Private Bank, National Associates">MSPBNA</entityID>
+		<isoCurrCode>USD</isoCurrCode>
+		<regRepType>Loan Processor</regRepType>
+		<relParties>
+			<relParty>
+				<relPartyName relPartyRelshpType="Flood Certificate Provider">FDSI</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="Loan Officer">Luke jeffery</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="Processor">Natalie Byrnes</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="ClosingAgent">Melba Pogo</relPartyName>
+				<address></address>				
+			</relParty>
+		</relParties>
+		<acctOpenMethod code="I">Telephone</acctOpenMethod>
+		<address addressType="property">
+			<addrLine1>1600 PHELPS RD</addrLine1>
+			<addrLine2>36 THE VAL</addrLine2>
+			<cityName>MANLIUS</cityName>
+			<countyName>MADISON</countyName>
+			<stateProvinceCode>NY</stateProvinceCode>
+			<stateProvinceName>NY</stateProvinceName>
+			<postalCode>13104</postalCode>		
+		</address>
+		<leadCreateDate>2016-03-30</leadCreateDate>
+		<branchContacts>
+			<branchContact>
+				<branchContactName type="FA" id="304196">Mayon D Buckow</branchContactName>
+			</branchContact>
+		</branchContacts>
+		<acctUniqueId>1602792</acctUniqueId>
+		<regOIndicator>N</regOIndicator>
+		<employeeLoanIndicator>N</employeeLoanIndicator>
+		</acctBasicInfo>
+		<accountFinInfo>
+			<netAssetValue>300000.0000000</netAssetValue>
+			<lienPayOffs>
+			</lienPayOffs>
+		</accountFinInfo>		
+		<clients>
+			<client>
+				<clientBasicInfo>
+					<inquiryType>P</inquiryType>
+					<onboardbusEntity>PDG Mortgage</onboardbusEntity>
+					<clientType>PERSON</clientType>
+					<govtIssIds>
+						<govtIssId>
+							<govtIssIdType>SSN</govtIssIdType>
+							<govtIssIdNumber>123456789</govtIssIdNumber>
+						</govtIssId>
+					</govtIssIds>
+					<onboardDate>2016-03-30</onboardDate>
+					<clientId>0039560727</clientId>
+					<foreignNationalIndicator>N</foreignNationalIndicator>
+				</clientBasicInfo>
+				<clientFinInfo>
+					<annualIncome>35292.000000</annualIncome>
+				</clientFinInfo>
+				<clientPersInfo>
+					<fullName lastName="Putik" firstName="Deboi" middleName="L">Deboi L Putik</fullName>
+					<birthDate>1940-04-15</birthDate>
+					<citizenship>Y</citizenship>
+					<maritalStatus code="M">Married</maritalStatus>
+					<methodIntro code="FA">FA Refferal</methodIntro>
+					<enrolledProduct program="M74">MELOC 25 Year Term</enrolledProduct>
+					<sourcesOfWealth></sourcesOfWealth>
+					<sourceOfWealthJurisdiction></sourceOfWealthJurisdiction>
+					<sourceofWealthIndustries></sourceofWealthIndustries>
+					<sourcesofFund></sourcesofFund>
+					<sourceOfFundJurisdiction></sourceOfFundJurisdiction>
+					<sourceofFundIndustries></sourceofFundIndustries>
+					<role>borrower</role>
+					<borrowerSequenceNumber>1</borrowerSequenceNumber>
+					<primaryBorrowerIndicator>Y</primaryBorrowerIndicator>
+					<p2ps></p2ps>
+				</clientPersInfo>
+				<clientContactInfo>
+					<email>sam@gmauil.com</email>
+					<phones>
+						<phoneNumber phoneType="Home">123456789</phoneNumber>
+					</phones>
+					<addresses>
+						<address addressType="Home">
+							<addressLine1>315 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+						<address addressType="Office">
+							<addressLine1>316 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+						<address addressType="Others">
+							<addressLine1>317 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+					</addresses>
+					</clientContactInfo>
+			</client>
+		</clients>
+		<transactions>
+		</transactions>		
+	</account>	
+	<account>
+		<acctBasicInfo>
+		<acctName>6007317992</acctName>
+		<acctNumLoanOrigination>6007317992</acctNumLoanOrigination>
+		<branchId>304</branchId>
+		<acctStatus>Mortgage Application</acctStatus>
+		<acctType>MLA</acctType>
+		<acctPurpose code="H">Standalone HELOC</acctPurpose>
+		<entityID name="Morgan Stanley Private Bank, National Associates">MSPBNA</entityID>
+		<isoCurrCode>USD</isoCurrCode>
+		<regRepType>Loan Processor</regRepType>
+		<relParties>
+			<relParty>
+				<relPartyName relPartyRelshpType="Flood Certificate Provider">FDSI</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="Loan Officer">Luke jeffery</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="Processor">Natalie Byrnes</relPartyName>
+				<address></address>				
+			</relParty>
+			<relParty>
+				<relPartyName relPartyRelshpType="ClosingAgent">Melba Pogo</relPartyName>
+				<address></address>				
+			</relParty>
+		</relParties>
+		<acctOpenMethod code="I">Telephone</acctOpenMethod>
+		<address addressType="property">
+			<addrLine1>1600 PHELPS RD</addrLine1>
+			<addrLine2>36 THE VAL</addrLine2>
+			<cityName>MANLIUS</cityName>
+			<countyName>MADISON</countyName>
+			<stateProvinceCode>NY</stateProvinceCode>
+			<stateProvinceName>NY</stateProvinceName>
+			<postalCode>13104</postalCode>		
+		</address>
+		<leadCreateDate>2016-03-30</leadCreateDate>
+		<branchContacts>
+			<branchContact>
+				<branchContactName type="FA" id="304196">Mayon D Buckow</branchContactName>
+			</branchContact>
+		</branchContacts>
+		<acctUniqueId>1602792</acctUniqueId>
+		<regOIndicator>N</regOIndicator>
+		<employeeLoanIndicator>N</employeeLoanIndicator>
+		</acctBasicInfo>
+		<accountFinInfo>
+			<netAssetValue>300000.0000000</netAssetValue>
+			<lienPayOffs>
+			</lienPayOffs>
+		</accountFinInfo>		
+		<clients>
+			<client>
+				<clientBasicInfo>
+					<inquiryType>P</inquiryType>
+					<onboardbusEntity>PDG Mortgage</onboardbusEntity>
+					<clientType>PERSON</clientType>
+					<govtIssIds>
+						<govtIssId>
+							<govtIssIdType>SSN</govtIssIdType>
+							<govtIssIdNumber>123456789</govtIssIdNumber>
+						</govtIssId>
+					</govtIssIds>
+					<onboardDate>2016-03-30</onboardDate>
+					<clientId>0039560727</clientId>
+					<foreignNationalIndicator>N</foreignNationalIndicator>
+				</clientBasicInfo>
+				<clientFinInfo>
+					<annualIncome>35292.000000</annualIncome>
+				</clientFinInfo>
+				<clientPersInfo>
+					<fullName lastName="Putik" firstName="Deboi" middleName="L">Deboi L Putik</fullName>
+					<birthDate>1940-04-15</birthDate>
+					<citizenship>Y</citizenship>
+					<maritalStatus code="M">Married</maritalStatus>
+					<methodIntro code="FA">FA Refferal</methodIntro>
+					<enrolledProduct program="M74">MELOC 25 Year Term</enrolledProduct>
+					<sourcesOfWealth></sourcesOfWealth>
+					<sourceOfWealthJurisdiction></sourceOfWealthJurisdiction>
+					<sourceofWealthIndustries></sourceofWealthIndustries>
+					<sourcesofFund></sourcesofFund>
+					<sourceOfFundJurisdiction></sourceOfFundJurisdiction>
+					<sourceofFundIndustries></sourceofFundIndustries>
+					<role>borrower</role>
+					<borrowerSequenceNumber>1</borrowerSequenceNumber>
+					<primaryBorrowerIndicator>Y</primaryBorrowerIndicator>
+					<p2ps></p2ps>
+				</clientPersInfo>
+				<clientContactInfo>
+					<email>sam@gmauil.com</email>
+					<phones>
+						<phoneNumber phoneType="Home">123456789</phoneNumber>
+					</phones>
+					<addresses>
+						<address addressType="Home">
+							<addressLine1>315 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+						<address addressType="Office">
+							<addressLine1>316 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+						<address addressType="Others">
+							<addressLine1>317 FAYATTE</addressLine1>
+							<cityName>MANLIUS</cityName>
+							<stateProvinceCode>NY</stateProvinceCode>
+							<stateProvinceName>NEWYORK</stateProvinceName>
+							<postalCode>13104</postalCode>	
+						</address>
+					</addresses>
+					</clientContactInfo>
+			</client>
+		</clients>
+		<transactions>
+		</transactions>		
+	</account>	
+	
+</accounts>	
